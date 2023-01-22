@@ -6,7 +6,7 @@ public class Dinosaur implements Animal {
 
 	public void makeNoise() {
 		// TODO Auto-generated method stub
-
+		System.out.println("dinosaur sound");
 	}
 
 	public void move() {
